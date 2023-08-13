@@ -1,31 +1,35 @@
 # Regression Analysis - Predicting California Housing Prices
 
+![3D Scatter Plot](3d-scatter-plot.png)
+
 ## Overview
-Welcome to the California Housing Prices Predictive Analysis project! This project focuses on predicting housing prices in California using regression analysis techniques. The dataset used for this analysis is the California Housing Prices dataset from Kaggle.
+
+This project involves a regression analysis to predict housing prices in California using machine learning techniques. The dataset used is the California Housing Prices dataset obtained from Kaggle. The analysis includes feature engineering, linear regression using Ridge regression, and model evaluation using metrics such as Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and R-squared.
 
 ## Project Goals
-- Perform linear regression analysis to predict housing prices.
+
+The primary goals of this project are:
+
+- Develop a predictive model for housing prices in California.
 - Utilize feature engineering techniques to enhance model performance.
-- Evaluate the model using MAE, RMSE, and R-squared metrics.
-- Visualize insights and patterns from the data.
+- Apply linear regression with Ridge regularization for accurate predictions.
+- Evaluate model performance using appropriate metrics.
 
 ## Data Source
-The California Housing Prices dataset used for this analysis is publicly available and can be found on Kaggle.
 
-## Exploratory Data Analysis (EDA)
-During the EDA process, I performed the following steps:
-- Data Loading and Initial Exploration.
-- Data Cleaning and Handling Missing Values.
-- Descriptive Statistics and Summary Metrics.
-- Data Visualization to Understand Patterns.
+The dataset used in this project is the "California Housing Prices" dataset from Kaggle. It includes various features related to housing attributes and prices.
 
 ## Project Files
-The main files in this project are:
-- Regression Analysis - Predicting California Housing Prices.ipynb: Jupyter Notebook with analysis code.
-- housing.csv.zip: California Housing Prices dataset.
+
+The main files in this project include:
+
+- `Regression Analysis.ipynb`: The Jupyter Notebook containing the step-by-step analysis, modeling, and evaluation process.
+- `housing.csv.zip`: The compressed dataset file used in the analysis.
 
 ## Libraries Used
-Python Libraries Used:
+
+The following Python libraries were used for this project:
+
 - Pandas
 - Scikit-Learn
 - Seaborn
@@ -33,16 +37,20 @@ Python Libraries Used:
 - Matplotlib
 
 ## How to Run
-To run the Jupyter Notebook and reproduce the analysis, follow these steps:
-1. Clone this repository to your local machine.
-2. Open the "Regression Analysis - Predicting California Housing Prices.ipynb" notebook using Jupyter.
-3. Run the cells in the notebook to perform the analysis.
+
+To replicate the analysis and results, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Open the `Regression Analysis.ipynb` notebook using Jupyter Notebook or Jupyter Lab.
+3. Run each cell in the notebook sequentially to replicate the analysis.
 
 ## Acknowledgments
-- California Housing Prices dataset sourced from Kaggle.
-- Thanks to the open-source community for creating valuable tools and libraries.
+
+The analysis and code in this project are developed by Bufatima N. k. The project was created as part of a data science learning journey.
 
 ## Author
+
 Bufatima N. k.
-- GitHub: [github.com/Bufatima-Nk](https://github.com/Bufatima-Nk)
-- LinkedIn: [linkedin.com/in/bufatima-n-k](https://linkedin.com/in/bufatima-n-k)
+
+GitHub: [github.com/Bufatima-Nk](https://github.com/Bufatima-Nk)
+LinkedIn: [linkedin.com/in/bufatima-n-k](https://linkedin.com/in/bufatima-n-k)
